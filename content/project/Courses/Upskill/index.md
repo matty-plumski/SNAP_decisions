@@ -1,5 +1,5 @@
 ---
-title: Cartoon Face Generator
+title: Courses/Upskill
 summary: Write about your project here...
 tags:
 - CV
