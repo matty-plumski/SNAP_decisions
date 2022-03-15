@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Codes
 
 # Listing view
 view: citation
