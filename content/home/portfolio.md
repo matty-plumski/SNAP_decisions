@@ -29,8 +29,8 @@ content:
 
 design:
   columns: '1'
-  view: compact
-  flip_alt_rows: true
+  view: masonry
+  flip_alt_rows: false
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---
