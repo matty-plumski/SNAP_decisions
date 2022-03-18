@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    description: 'Te Herenga Waka—Victoria University of Wellington's Centre for Simulation, Numerical methods, Analytics and Programming (SNAP) '
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -61,14 +61,16 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
+      - pyhton
+      - bash
   math:
-    enable: false
+    enable: true
   diagram:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -76,8 +78,8 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
-    shape: circle
+    gravatar: true
+    shape: square
   comment:
     provider: ''
     disqus:
