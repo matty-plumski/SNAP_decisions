@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Blog
+summary: SNAP decisions and biography of an article
 tags:
-- NLP
+- ML
 date: 2022-01-01
-external_link: http://github.com
+link: /posts/
 ---
