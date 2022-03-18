@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: About us
 subtitle:
 
 content:
@@ -22,8 +22,9 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Steering Committee
 design:
-  show_interests: false
+  show_interests: true
   show_role: true
   show_social: true
 ---
