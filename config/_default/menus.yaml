@@ -10,9 +10,6 @@ main:
   - name: Blog
     url: post
     weight: 20
-  - name: People
-    url: people
-    weight: 30
   - name: Events
     url: event
     weight: 40
@@ -22,6 +19,4 @@ main:
   - name: Contact
     url: contact
     weight: 60
-  - name: Card
-    url: portfolio
-    weight: 70
+  
