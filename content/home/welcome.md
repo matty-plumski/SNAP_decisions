@@ -7,8 +7,8 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  SNAP
-hero_media: welcome.jpg
+ VUW Centre for Simulation, Numerical methods, Analytics and Programming (VUW-SNAP)
+hero_media: Hunt_chem_model_transp.gif
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,7 +19,7 @@ design:
 
 <br>
 
-VUW Centre for Simulation, Numerical methods, Analytics and Programming (VUW-SNAP)
+
 
 <p>
 The 21st century has seen powerful advances in computer hardware and software leading to a rapid increase in the exploitation of computation within the natural sciences, social sciences, and engineering disciplines. Significant advances have brought numerical modelling, data analysis and simulation disciplines to the forefront. There has also been a large ground swell in the use of programming and scripting across all disciplines.
