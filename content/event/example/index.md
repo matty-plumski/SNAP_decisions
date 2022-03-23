@@ -12,7 +12,7 @@ location: Online (Zoom)
 #   postcode: '94305'
 #   country: United States
 
-summary: An example event.
+summary: Inaugural SNAP workshop
 abstract: "The purpose of the workshop is to bring the community together to get to know each other, spark interdisciplinary dialogue and identify software and modelling tools which could be of use in multiple disciplines. Through multiple discussion sessions, we will also identify and refine ideas for activities and events that would benefit the SNAP community over the next year."
 
 # Talk start and end times.
@@ -22,9 +22,9 @@ date: "2022-13-04T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin, MattPlummer]
+authors: [BrendanHarding, admin, MattPlummer]
 tags: [training, community]
 
 # Is this a featured talk? (true/false)
@@ -54,7 +54,9 @@ slides:
 projects:
 ---
 
-SNAP inaugural workshop
+
+###SNAP inaugural workshop
+
 Te Herenga Waka—Victoria University of Wellington's Centre for Simulation, Numerical methods, Analytics and Programming (SNAP) invites you to attend its inaugural workshop.
 
 The purpose of the workshop is to bring the community together to get to know each other, spark interdisciplinary dialogue and identify software and modelling tools which could be of use in multiple disciplines. Through multiple discussion sessions, we will also identify and refine ideas for activities and events that would benefit the SNAP community over the next year.

@@ -14,7 +14,7 @@ organizations:
   url: "www.wgtn.ac.nz"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Prof Patricia Hunt completed her BSc and MSc (with Honours) in physics and chemistry at the University of Auckland, New Zealand, her PhD was in the areas of Group 15 inversion,  transition metal bonding and relativistic effects in small gold clusters with Peter Schwerdfeger.
+bio: Patricia Hunt ia a Professor of Theoretical and Computational Chemistry
 
 interests:
 
@@ -65,7 +65,7 @@ interests:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: ture
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

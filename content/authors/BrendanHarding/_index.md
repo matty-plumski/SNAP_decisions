@@ -3,10 +3,10 @@
 title: Stephen Skalicky
 # Username (this should match the folder name)
 authors:
--  Stephen Skalicky
+-  StephenSkalicky
 
 # Is this the primary user of the site?
-superuser: false
+superuser: ture
 
 # # Role/position
 # role: Professor of Artificial Intelligence
@@ -17,11 +17,11 @@ superuser: false
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Stephen Skalicky is an academic in Linguistics
+bio: StephenSkalicky is an academic in Linguistics at VUW
 
 # interests:
 # - Artificial Intelligence
- - Computational Linguistics
+- Computational Linguistics
 # - Information Retrieval
 
 # education:

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Brendan Harding
+title: Wanting Jiao
 
 # Username (this should match the folder name)
 authors:
--  Brendan Harding
+-  WantingJiao
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brendan is an academic in the School of Mathematics and Statistics
+bio: 
 
 # interests:
 # - Artificial Intelligence
@@ -70,4 +70,3 @@ user_groups:
 - Researchers
 ---
 
-Liz is researcher in the Antarctice Research Centre
