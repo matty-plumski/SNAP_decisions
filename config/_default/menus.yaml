@@ -5,7 +5,7 @@
 
 main:
   - name: About us
-    url: about
+    url: people
     weight: 10
   - name: Blog
     url: post
@@ -14,7 +14,7 @@ main:
     url: event
     weight: 40
   - name: Codes
-    url: Codes
+    url: codes
     weight: 50
   - name: Contact
     url: contact
