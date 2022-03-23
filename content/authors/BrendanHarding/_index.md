@@ -1,10 +1,9 @@
 ---
 # Display name
-title: 吳恩達
-
+title: Stephen Skalicky
 # Username (this should match the folder name)
 authors:
-- Liz Keller
+-  Stephen Skalicky
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,11 +17,11 @@ superuser: false
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Liz is researcher in the Antarctice Research Centre
+bio: Stephen Skalicky is an academic in Linguistics
 
 # interests:
 # - Artificial Intelligence
-# - Computational Linguistics
+ - Computational Linguistics
 # - Information Retrieval
 
 # education:
