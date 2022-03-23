@@ -1,8 +1,4 @@
 ---
-title: About Us
-summary: Find out more about the SNAP centre and organising committee
-tags:
-- NLP
-date: 2022-01-01
-url: "/about"
+# Files in this folder represent a Widget Page
+type: widget_page
 ---

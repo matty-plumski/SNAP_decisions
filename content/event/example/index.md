@@ -22,7 +22,7 @@ date: "2022-13-04T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+ publishDate: "2022-24-03T00:00:00Z"
 
 authors: [BrendanHarding, admin, MattPlummer]
 tags: [training, community]
@@ -55,7 +55,7 @@ projects:
 ---
 
 
-###SNAP inaugural workshop
+### SNAP inaugural workshop
 
 Te Herenga Waka—Victoria University of Wellington's Centre for Simulation, Numerical methods, Analytics and Programming (SNAP) invites you to attend its inaugural workshop.
 
