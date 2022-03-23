@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Stephen Skalicky
+title: Brendan Harding
 # Username (this should match the folder name)
 authors:
--  StephenSkalicky
+-  BrendanHarding
 
 # Is this the primary user of the site?
 superuser: ture
@@ -17,11 +17,11 @@ superuser: ture
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: StephenSkalicky is an academic in Linguistics at VUW
+bio: 
 
 # interests:
 # - Artificial Intelligence
-- Computational Linguistics
+# - Computational Linguistics
 # - Information Retrieval
 
 # education:
@@ -69,4 +69,3 @@ user_groups:
 - Researchers
 ---
 
-Liz is researcher in the Antarctice Research Centre

@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 ---
 
-Liz is researcher in the Antarctice Research Centre
+
