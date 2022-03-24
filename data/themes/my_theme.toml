@@ -7,7 +7,7 @@ name = "my_theme"
   primary_dark = "#DA2536"
 
   # Menu
-  menu_primary = "#115737"
+  menu_primary = "#004B34"
   menu_text = "#EFEFEF"
   menu_text_active = "#fff"
   menu_title = "#fff"
