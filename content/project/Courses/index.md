@@ -1,8 +1,11 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Guides and Tutorials
+summary: Step-by-step lessons, tutorials and guides on a range of topics related to computational analysis
 tags:
-- NLP
+- training
+- guides
+- community
 date: 2022-01-01
-url: "/codes"
+url: "/courses"
 ---
+Step-by-step lessons, tutorials and guides on a range of topics related to computational analysis
