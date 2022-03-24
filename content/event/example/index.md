@@ -22,13 +22,13 @@ date: "2022-13-04T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-24-03T00:00:00Z"
+publishDate: "2022-03-03T00:00:00Z"
 
 authors: [BrendanHarding, admin, MattPlummer]
 tags: [training, community]
 
 # Is this a featured talk? (true/false)
-featured: ture
+featured: true
 
 image:
   caption: 'online conference'
