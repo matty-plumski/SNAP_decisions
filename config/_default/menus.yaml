@@ -5,7 +5,7 @@
 
 main:
   - name: About us
-    url: about
+    url: people
     weight: 10
   - name: Blog
     url: post
