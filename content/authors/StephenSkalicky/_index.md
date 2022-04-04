@@ -18,7 +18,7 @@ superuser: true
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Stephen Skalicky is a Senior Lecturer in the School of Linguistics and Applied Language Studies at Victoria University of Wellington.
 
 # interests:
 # - Artificial Intelligence
@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 ---
 
-
+Stephen Skalicky is a Senior Lecturer in the School of Linguistics and Applied Language Studies at Victoria University of Wellington. Stephen is broadly interested in studying links between language and cognition. His research primarily involves quantitative psychological and linguistic approaches to study creative language such as satirical discourse, figurative language, humour, and language play. 

@@ -1,10 +1,9 @@
 ---
 # Display name
-title: Wanting Jiao
-
+title: Markus Luczak-Roesch
 # Username (this should match the folder name)
 authors:
--  WantingJiao
+-  MarkusLuczak-Roesch
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +17,7 @@ superuser: false
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wanting Jiao is a scientist in the Ferrier Research Institute.
+bio: Brendan is a lecturer in computational mathematics and statistics.
 
 # interests:
 # - Artificial Intelligence
@@ -70,4 +69,5 @@ user_groups:
 - Researchers
 ---
 
-Wanting Jiao is a scientist in the Ferrier Research Institute. Wanting is a computational biochemist with a research interest in how enzymes work. Originally trained as a chemistry undergraduate, she embarked on researching proteins and enzymes using computational methods during her Ph.D. study. Her current research interest is studying enzyme catalysis and allosteric regulation mechanisms using a range of computational techniques including molecular dynamics simulations, QM/MM calculations, ligand docking, virtual screening, and homology modelling. 
+Brendan is a lecturer in computational mathematics and statistics. His current research is concerned with the mathematical modelling and analysis of inertial migration of particles in microfluidic devices. This work combines a broad range of techniques and methodologies from applied mathematics, numerical methods and dynamical systems. His other published work includes studies of sparse grid methods, fault tolerant algorithms for high performance computing and iterated function systems. 
+

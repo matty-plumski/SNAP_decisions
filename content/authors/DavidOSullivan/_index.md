@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Wanting Jiao
+title: David O'Sullivan
 
 # Username (this should match the folder name)
 authors:
--  WantingJiao
+-  DavidOSullivan
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wanting Jiao is a scientist in the Ferrier Research Institute.
+bio: David is a Professor of Geography and Geospatial Science in VUW's School of Geography, Environment and Earth Sciences
 
 # interests:
 # - Artificial Intelligence
@@ -69,5 +69,3 @@ user_groups:
 - Oganising Committee
 - Researchers
 ---
-
-Wanting Jiao is a scientist in the Ferrier Research Institute. Wanting is a computational biochemist with a research interest in how enzymes work. Originally trained as a chemistry undergraduate, she embarked on researching proteins and enzymes using computational methods during her Ph.D. study. Her current research interest is studying enzyme catalysis and allosteric regulation mechanisms using a range of computational techniques including molecular dynamics simulations, QM/MM calculations, ligand docking, virtual screening, and homology modelling. 

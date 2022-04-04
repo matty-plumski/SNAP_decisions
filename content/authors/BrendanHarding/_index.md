@@ -17,7 +17,7 @@ superuser: ture
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Brendan is a lecturer in computational mathematics and statistics.
 
 # interests:
 # - Artificial Intelligence
@@ -68,4 +68,6 @@ user_groups:
 - Oganising Committee
 - Researchers
 ---
+
+Brendan is a lecturer in computational mathematics and statistics. His current research is concerned with the mathematical modelling and analysis of inertial migration of particles in microfluidic devices. This work combines a broad range of techniques and methodologies from applied mathematics, numerical methods and dynamical systems. His other published work includes studies of sparse grid methods, fault tolerant algorithms for high performance computing and iterated function systems. 
 

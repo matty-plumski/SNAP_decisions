@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Wanting Jiao
+title: Yvette Perrott
 
 # Username (this should match the folder name)
 authors:
--  WantingJiao
+-  YvettePerrott
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wanting Jiao is a scientist in the Ferrier Research Institute.
+bio: Yvette Perrott is a lecturer in the School of Chemical and Physical Sciences.
 
 # interests:
 # - Artificial Intelligence
@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 ---
 
-Wanting Jiao is a scientist in the Ferrier Research Institute. Wanting is a computational biochemist with a research interest in how enzymes work. Originally trained as a chemistry undergraduate, she embarked on researching proteins and enzymes using computational methods during her Ph.D. study. Her current research interest is studying enzyme catalysis and allosteric regulation mechanisms using a range of computational techniques including molecular dynamics simulations, QM/MM calculations, ligand docking, virtual screening, and homology modelling. 
+Yvette Perrott is a lecturer in the School of Chemical and Physical Sciences.  Her research area is astrophysics, particularly the study of hot gas in clusters of galaxies which is observable in the radio and X-ray wavebands.  She uses computational techniques to analyze observational data and compare with physical models. 
