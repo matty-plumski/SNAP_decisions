@@ -6,7 +6,7 @@ title: Matt Plummer
 superuser: true
 
 # Role/position
-role: Digital Research Consultant
+role: Research Capability Team Leader
 
 # Organizations/Affiliations
 organizations:
@@ -23,14 +23,14 @@ interests:
 - Audio/visual Performance
 - Web Design
 
-education:
-  courses:
-  - course: MA in Art History
-    institution: Victoria University of Wellington
-    year: 2010
-  - course: BA(Hons) in Art History
-    institution: Victoria University of Wellington
-    year: 2006
+# education:
+#   courses:
+#   - course: MA in Art History
+#     institution: Victoria University of Wellington
+#     year: 2010
+#   - course: BA(Hons) in Art History
+#     institution: Victoria University of Wellington
+#     year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

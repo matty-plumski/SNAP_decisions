@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-03-03T00:00:00Z"
 
-authors: [BrendanHarding, admin, MattPlummer]
+authors: [BrendanHarding, MarkusLuczak-Roesch]
 tags: [training, community]
 
 # Is this a featured talk? (true/false)

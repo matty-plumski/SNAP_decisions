@@ -1,6 +1,6 @@
 ---
 title: Code Examples and Links
-summary: Write about your project here...
+summary: A range of code snippets and practical tutorials to assist with different types of analysis
 tags:
 - NLP
 date: 2022-01-01

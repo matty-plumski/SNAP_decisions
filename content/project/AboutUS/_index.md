@@ -1,6 +1,6 @@
 ---
 title: Meet the organising committee
-summary: Write about your project here...
+summary: The SNAP organising committee comprises researchers and research support staff from across the university.
 tags:
 # - NLP
 date: 2022-01-01
