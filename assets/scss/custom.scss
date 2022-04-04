@@ -1,0 +1,53 @@
+@font-face {
+	font-family: 'Datalegreya-Thin';
+	src: url('/uploads/Datalegreya-Thin.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Datalegreya-Gradient';
+	src: url('/uploads/Datalegreya-Gradient.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Datalegreya-Dot';
+	src: url('/uploads/Datalegreya-Dot.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	-webkit-font-feature-settings: "kern" on, "liga" on, "calt" on;
+	-moz-font-feature-settings: "kern" on, "liga" on, "calt" on;
+	-webkit-font-feature-settings: "kern" on, "liga" on, "calt" on;
+	-ms-font-feature-settings: "kern" on, "liga" on, "calt" on;
+	font-feature-settings: "kern" on, "liga" on, "calt" on;
+	font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
+}
+
+body {
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+#navbar-main .main-menu-item ul li .nav-link {
+    color: #fff;
+    text-transform: uppercase;
+	font-size: 1.35rem;
+}
+
+.hero-lead {
+    max-width: 1268px;
+    font-size: 1 rem;
+}
+
+
+#navbar-main .main-menu-item ul li .nav-link {
+    color: #fff;
+    text-transform: lowercase;
+    font-size: 1.35rem;
+}
