@@ -1,10 +1,9 @@
 ---
 # Display name
-title: Yvette Perrot
-
+title: Anne Haase
 # Username (this should match the folder name)
 authors:
--  WantingJiao
+-  AnneHaase
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +17,7 @@ superuser: false
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Anne is the Head of School for Health at Te Herenga Waka.
 
 # interests:
 # - Artificial Intelligence
@@ -69,4 +68,6 @@ user_groups:
 - Oganising Committee
 - Researchers
 ---
+
+
 
