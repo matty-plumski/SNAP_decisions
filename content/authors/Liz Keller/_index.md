@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Brendan Harding
+title: Liz Keller
+
 # Username (this should match the folder name)
 authors:
--  BrendanHarding
+- Liz Keller
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # # Role/position
 # role: Professor of Artificial Intelligence
@@ -17,7 +18,7 @@ superuser: true
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brendan is a lecturer in computational mathematics and statistics.
+bio: Liz is researcher in the Antarctice Research Centre
 
 # interests:
 # - Artificial Intelligence
@@ -69,5 +70,4 @@ user_groups:
 - Researchers
 ---
 
-Brendan is a lecturer in computational mathematics and statistics. His current research is concerned with the mathematical modelling and analysis of inertial migration of particles in microfluidic devices. This work combines a broad range of techniques and methodologies from applied mathematics, numerical methods and dynamical systems. His other published work includes studies of sparse grid methods, fault tolerant algorithms for high performance computing and iterated function systems. 
-
+Liz is researcher in the Antarctice Research Centre

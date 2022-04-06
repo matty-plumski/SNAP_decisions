@@ -2,7 +2,7 @@
 title: Cosmetics Semantic Search
 summary: Write about your project here...
 tags:
-- NLP
+# NLP
 date: 2022-01-01
-url: "/codes"
+url: "/courses"
 ---
