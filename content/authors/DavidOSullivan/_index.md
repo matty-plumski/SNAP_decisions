@@ -74,4 +74,7 @@ user_groups:
 - Oganising Committee
 - Researchers
 ---
+Roughly speaking I’m interested in everything, but with an emphasis on the implications of complexity science, or more generally how the world is (what kind of thing it is!) for geographical research, and more recently, on the implications of geospatial technologies for everyday life. 
+
+I do a lot of work using spatial analysis tools and spatial simulation models. I've written [books](https://dosull.github.io/books.html) about each of these fields. Almost anything at the intersection of the computational and the spatial is of interest to me.
 
