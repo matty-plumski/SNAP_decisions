@@ -44,3 +44,16 @@ body {
 .universal-wrapper h1 {
     text-align: left;
 }
+
+/* adding top padding to improve spacing when social icons included in about us page */
+.people-widget .avatar {
+    width: 80%;
+    max-width: 150px;
+    height: auto;
+    padding-top: 30px;
+}
+
+/* increase font size of author's role title*/
+.people-widget .portrait-title h3 {
+    font-size: .9rem;
+}
