@@ -1,6 +1,6 @@
 ---
 title: Blog
-summary: SNAP decisions and biography of an article
+summary: A range of articles, discussion points and journals from the SNAP community
 tags:
 - ML
 date: 2022-01-01
