@@ -15,7 +15,7 @@ role: Scientist
 # # Organizations/Affiliations
 organizations:
 - name: Ferrier Research Institute
-url: "https://www.wgtn.ac.nz/ferrier"
+  url: "https://www.wgtn.ac.nz/ferrier"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Wanting Jiao is a computational biochemist at the Ferrier Research Institute.
@@ -30,8 +30,8 @@ interests:
 education:
 courses:
 - course: PhD in Chemistry
-institution: University of Canterbury
-year: 2012
+  institution: University of Canterbury
+  year: 2012
 #   - course: MEng in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2009
