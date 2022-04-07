@@ -27,17 +27,14 @@ interests:
 - Molecular Dynamics simulations
 - QM/MM calculations
 
-education:
-courses:
-- course: PhD in Chemistry
-  institution: University of Canterbury
-  year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+ education:
+   courses:
+   - course: PhD in Chemistry
+     institution: University of Canterbury
+     year: 2012
+   - course: BSc(Hon) in Chemistry
+     institution: University of Canterbury
+     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
