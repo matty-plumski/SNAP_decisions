@@ -76,5 +76,5 @@ user_groups:
 ---
 Roughly speaking I’m interested in everything, but with an emphasis on the implications of complexity science, or more generally how the world is (what kind of thing it is!) for geographical research, and more recently, on the implications of geospatial technologies for everyday life. 
 
-I do a lot of work using spatial analysis tools and spatial simulation models. I've written [books](https://dosull.github.io/books.html) about each of these fields. Almost anything at the intersection of the computational and the spatial is of interest to me.
+I do a lot of work using spatial analysis tools and spatial simulation models. I've written [books](https://dosull.github.io/books.html) about each of these fields. Almost anything at the intersection of the computational and the spatial is of interest to me. Recent examples include [modelling wasp control strategies in NetLogo](https://github.com/DOSull/wasps) and [woven maps of multivariate data](https://dosull.github.io/weaving-space/NZCS-Nov-2021/make-weave-map.html).
 
