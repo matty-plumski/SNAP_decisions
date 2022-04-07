@@ -73,3 +73,5 @@ user_groups:
 ---
 
 Wanting Jiao is a scientist in the Ferrier Research Institute. Wanting is a computational biochemist with a research interest in how enzymes work. Originally trained as a chemistry undergraduate, she embarked on researching proteins and enzymes using computational methods during her Ph.D. study. Her current research interest is studying enzyme catalysis and allosteric regulation mechanisms using a range of computational techniques including molecular dynamics simulations, QM/MM calculations, ligand docking, virtual screening, and homology modelling. 
+
+![](/Users/wantingjiao/Documents/GitHub/SNAP_decisions/assets/media/HisG_morph_rock.mpg)
