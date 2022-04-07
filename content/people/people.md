@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: About us
+title: Meet the SNAP Organising Committee
 subtitle:
 
 content:

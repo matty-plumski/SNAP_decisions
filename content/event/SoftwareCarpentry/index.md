@@ -22,7 +22,7 @@ date: "2022-21-04T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-07-04T00:00:00Z"
+publishDate: "2022-06-04T00:00:00Z"
 
 authors: [MattPlummer]
 tags: [training, community]
