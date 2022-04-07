@@ -1,7 +1,7 @@
 ---
 title: Software Carpentry
 
-event: SNAP inaugural workshop
+event: SoftwareCarpentry
 event_url: https://vuw.libcal.com/event/5420228?k=39c62c79c1256b8352f035dcaf28adf9
 
 location: Online (Zoom)
@@ -18,11 +18,11 @@ abstract: "Software Carpentry teaches introductory computational skills that ena
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-21-04T13:00:00Z"
-#date_end: "2022-22-04T15:00:00Z"
+date_end: "2022-22-04T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-05-04T00:00:00Z"
+# publishDate: "2022-05-04T00:00:00Z"
 
 authors: [MattPlummer]
 tags: [training, community]

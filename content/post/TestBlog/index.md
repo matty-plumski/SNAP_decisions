@@ -8,7 +8,7 @@ authors:
 tags:
 - Academic
 - Technology
-- Digtital Humanities
+- Digital Humanities
 - Open source
 - Training
 
