@@ -1,5 +1,5 @@
 ---
-title: post
+title: Writing Academic Papers using R Studio + Zotero (and optionally, connect to GitHub)
 
 # View.
 #   1 = List
@@ -13,9 +13,10 @@ header:
   image: ""
 
 type: book
----
 
-## Writing Academic Papers using R Studio + Zotero (and optionally, connect to GitHub)
+authors:
+- StephenSkalicky
+---
 
 Writing tutorials, reports, and papers in markdown is a pleasant experience because of the easy incorporation of text, code, and images without the need to rely on word processing software. However, I've still been writing most of my journal articles and other research outputs using Microsoft Word. The main reason is because I rely heavily on my Zotero library to manage my collection of references, and Zotero has relatively okay intergration with word (well, sometimes it breaks). 
 
