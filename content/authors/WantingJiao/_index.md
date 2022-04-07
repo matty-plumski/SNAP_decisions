@@ -53,6 +53,9 @@ link: https://twitter.com/WantingJiao
 - icon: google-scholar
 icon_pack: ai
 link: https://scholar.google.co.nz/citations?user=04y0pR0AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0234-7206
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
