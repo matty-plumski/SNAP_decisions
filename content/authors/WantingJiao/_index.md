@@ -45,14 +45,14 @@ year: 2012
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-icon_pack: fas
-link: 'wanting.jiao@vuw.ac.nz'
+  icon_pack: fas
+  link: 'wanting.jiao@vuw.ac.nz'
 - icon: twitter
-icon_pack: fab
-link: https://twitter.com/WantingJiao
+  icon_pack: fab
+  link: https://twitter.com/WantingJiao
 - icon: google-scholar
-icon_pack: ai
-link: https://scholar.google.co.nz/citations?user=04y0pR0AAAAJ&hl=en
+  icon_pack: ai
+  link: https://scholar.google.co.nz/citations?user=04y0pR0AAAAJ&hl=en
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0234-7206
