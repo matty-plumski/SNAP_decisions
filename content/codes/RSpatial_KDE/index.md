@@ -15,10 +15,22 @@ header:
 
 type: book
 
+tags:
+- R
+- Geography
+- Geospatial Analysis
+
 authors:
 - DavidOSullivan
 ---
-
+---
+title: "Kernel density estimation in R spatial"
+description: |
+  Here's one way to do kernel density estimation in R spatial
+date: 10-21-2021
+output:
+  distill::distill_article
+---
 
 ## Packages
 This requires a surprising number of moving parts (at least the way I did it):
@@ -50,6 +62,7 @@ tm_shape(polys) +
   tm_shape(pts) + 
   tm_dots()
 ```
+![](https://i.imgur.com/oatM2bY.png)
 
 ## `spatstat` for density estimation
 The best way I know to do density estimation in the _R_ ecosystem is using the [`spatstat`](https://spatstat.org/) library's specialisation of base _R_'s `density` function. That means converting the point data to a `spatstat` planar point pattern (`ppp`) object, which involves a couple of steps.
@@ -96,6 +109,9 @@ tm_shape(kde) +
   tm_raster(palette =  "Reds")
 ```
 
+![](https://i.imgur.com/PiaGn3N.png)
+
+
 ### A fallback sanity check
 To give us an alternative view of the data, let's just count points in polygons
 
@@ -111,6 +127,7 @@ And map the result
 tm_shape(polys) +
   tm_polygons(col = "n", palette = "Reds", title = "Points in polygons")
 ```
+![](https://i.imgur.com/KNG7OW5.png)
 
 ### Aggregate the density surface pixels to polygons
 This isn't at all necessary, but is also useful to know. This is also a relatively slow operation. Note that we add together the density estimates in the pixels contained by each polygon.
@@ -131,5 +148,8 @@ And now we can make another map
 tm_shape(polys) + 
   tm_polygons(col = "estimated_count", palette = "Reds", title = "500m KDE estimate")
 ```
+
+![](https://i.imgur.com/sGYTwOw.png)
+
 
 Clearly, this approach doesn't work very well with areas of dramatically different sizes which accounts for why the rural but extensive area to the west is badly overestimated.
