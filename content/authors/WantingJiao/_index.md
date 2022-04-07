@@ -10,26 +10,28 @@ authors:
 superuser: false
 
 # # Role/position
-# role: Professor of Artificial Intelligence
+role: Scientist
 
 # # Organizations/Affiliations
-# organizations:
-# - name: Stanford University
-#   url: ""
+organizations:
+- name: Ferrier Research Institute
+url: "https://www.wgtn.ac.nz/ferrier"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wanting Jiao is a scientist in the Ferrier Research Institute.
+bio: Wanting Jiao is a computational biochemist at the Ferrier Research Institute.
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Enzyme catalysis
+- Protein function and regulation
+- Allostery
+- Molecular Dynamics simulations
+- QM/MM calculations
 
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
+education:
+courses:
+- course: PhD in Chemistry
+institution: University of Canterbury
+year: 2012
 #   - course: MEng in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2009
@@ -41,16 +43,16 @@ bio: Wanting Jiao is a scientist in the Ferrier Research Institute.
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:test@example.org'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+social:
+- icon: envelope
+icon_pack: fas
+link: 'wanting.jiao@vuw.ac.nz'
+- icon: twitter
+icon_pack: fab
+link: https://twitter.com/WantingJiao
+- icon: google-scholar
+icon_pack: ai
+link: https://scholar.google.co.nz/citations?user=04y0pR0AAAAJ&hl=en
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
