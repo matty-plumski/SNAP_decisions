@@ -1,5 +1,5 @@
 ---
-title: 'Snap-decisions'
+title: 'Digital Humanities Interview'
 subtitle: 'Interview with Michael Radich'
 summary: Interview with Digital Humanist and classical Bhuddist scholar Michael Radich on using computational processes to enhance research.
 authors:
