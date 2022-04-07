@@ -1,7 +1,7 @@
 ---
 title: Software Carpentry
 
-event: SoftwareCarpentry
+event: Software Carpentry
 event_url: https://vuw.libcal.com/event/5420228?k=39c62c79c1256b8352f035dcaf28adf9
 
 location: Online (Zoom)
@@ -22,7 +22,7 @@ date_end: "2022-22-04T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-05-04T00:00:00Z"
+publishDate: "2022-04-04T00:00:00Z"
 
 authors: [MattPlummer]
 tags: [training, community]
