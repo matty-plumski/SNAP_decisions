@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # # Role/position
-# role: Professor of Artificial Intelligence
+role: Professor of Geography and Geospatial Science
 
 # # Organizations/Affiliations
 # organizations:
@@ -41,7 +41,7 @@ bio: David is a Professor of Geography and Geospatial Science in VUW's School of
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
+social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:test@example.org'
@@ -72,3 +72,4 @@ user_groups:
 - Oganising Committee
 - Researchers
 ---
+
