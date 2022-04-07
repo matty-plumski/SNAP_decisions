@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # # Role/position
-# role: Professor of Artificial Intelligence
+role: Lecturer in Astrophysics
 
 # # Organizations/Affiliations
-# organizations:
-# - name: Stanford University
-#   url: ""
+organizations:
+- name: Victoria University of Wellington
+  url: "https://www.wgtn.ac.nz/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Yvette Perrott is a lecturer in the School of Chemical and Physical Sciences.
@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Oganising Committee
+- Organising Committee
 - Researchers
 ---
 
