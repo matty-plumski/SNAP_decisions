@@ -23,14 +23,7 @@ tags:
 authors:
 - DavidOSullivan
 ---
----
-title: "Kernel density estimation in R spatial"
-description: |
-  Here's one way to do kernel density estimation in R spatial
-date: 10-21-2021
-output:
-  distill::distill_article
----
+Here's one way to do kernel density estimation in R spatial
 
 ## Packages
 This requires a surprising number of moving parts (at least the way I did it):
