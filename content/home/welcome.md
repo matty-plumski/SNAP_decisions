@@ -19,3 +19,5 @@ design:
 
 
 The 21st century has seen powerful advances in computer hardware and software leading to a rapid increase in the exploitation of computation within the natural sciences, social sciences, and engineering disciplines. Significant advances have brought numerical modelling, data analysis and simulation disciplines to the forefront. There has also been a large ground swell in the use of programming and scripting across all disciplines. SNAP aims to promote these approaches and assist researchers to develop the skills needed to exploit them to their full potential.
+
+### Note: Site under construction
