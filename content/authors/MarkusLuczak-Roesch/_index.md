@@ -65,8 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Oganising Committee
-- Researchers
+- Organising Committee
 ---
 
 I am an Associate Professor within the School of Information Management at Victoria University of Wellington and a Principal Investigator at Te Pūnaha Matatini—New Zealand's centre for research excellence (CoRE) on complex systems. I am leading the Complexity & Connection Science Lab at Victoria University of Wellington that brings together students and researchers to work on theories and methods to understand the structures and dynamics of complex systems, and to develop computational tools that securely and meaningfully augment human intelligence. 
