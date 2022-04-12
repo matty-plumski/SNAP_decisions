@@ -66,8 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Oganising Committee
-- Researchers
+- Organising Committee
 ---
 
 Stephen Skalicky is a Senior Lecturer in the School of Linguistics and Applied Language Studies at Victoria University of Wellington. Stephen is broadly interested in studying links between language and cognition. His research primarily involves quantitative psychological and linguistic approaches to study creative language such as satirical discourse, figurative language, humour, and language play. 

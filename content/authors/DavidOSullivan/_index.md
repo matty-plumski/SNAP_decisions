@@ -71,8 +71,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Oganising Committee
-- Researchers
+- Organising Committee
 ---
 Roughly speaking I’m interested in everything, but with an emphasis on the implications of complexity science, or more generally how the world is (what kind of thing it is!) for geographical research, and more recently, on the implications of geospatial technologies for everyday life. 
 

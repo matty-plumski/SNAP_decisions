@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Oganising Committee
+- Organising Committee
 ---
 
 Patricia is a Professor of Theoretical and Computational chemistry in the School of Chemical and Physical Sciences.  Her research group  undertakes computational (quantum chemical) modelling of liquids (ionic liquids, aqueous systems, molten-salts, solvents, electrolytes, fuels, engineering fluids), solvation processes, catalysis, reactivity and bonding.  A second area is theoretical and method development within computational chemistry. 
