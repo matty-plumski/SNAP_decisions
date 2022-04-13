@@ -70,7 +70,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organising Committee
-- Researchers
+
 ---
 
 Yvette Perrott is a lecturer in the School of Chemical and Physical Sciences.  Her research area is astrophysics, particularly the study of hot gas in clusters of galaxies which is observable in the radio and X-ray wavebands.  She uses computational techniques to analyze observational data and compare with physical models. 
