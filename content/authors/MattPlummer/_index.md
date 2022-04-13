@@ -65,7 +65,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organising Committee
-- Researchers
+
 ---
 
 Matt’s background spans the arts and technology, working as an Art History Teaching Fellow and Visual Resources Administrator before taking up a position in Victoria University of Wellington’s Information Technology unit.  
