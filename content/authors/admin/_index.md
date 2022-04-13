@@ -70,9 +70,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Oganising Committee
-- Researchers
-- Administration
+- Organising Committee
+
 ---
 
 Prof Patricia Hunt completed her BSc and MSc (with Honours) in physics and chemistry at the University of Auckland, New Zealand, her PhD was in the areas of Group 15 inversion,  transition metal bonding and relativistic effects in small gold clusters with Peter Schwerdfeger.  During this time she also completed a BA in politics and philosophy.  Subsequently Patricia took up a position at Kings College London, London UK with Prof. Mike Robb developing the theory (and coding) on-the-fly dynamics through conical intersections employing the CASSCF method.  She then moved on to Cambridge University, Cambridge, UK working with Prof Micheal Sprik, developing (and coding) the effective MO theory for analysing ab-initio molecular dynamics studying the solvation of small ions in aqueous solutions.  She was then awarded prestigious Royal Society University Research Fellowship which she took up at Imperial College London, at the end of the fellowship she stayed at Imperial College raising through the ranks to become Prof of Theoretical and Computational Chemistry.  In 2020 she took up her current position at Victoria University of Wellington.
