@@ -4,5 +4,5 @@ summary: A range of code snippets and practical tutorials to assist with differe
 tags:
 - NLP
 date: 2022-01-01
-url: "/codes"
+url: "/codes/"
 ---
