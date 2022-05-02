@@ -36,3 +36,5 @@ If you are interested in participating in future SNAP events, please get in touc
 
 Cheers,
 Brendan
+
+![](/images/InauguralWorkshopParticipants.png)
