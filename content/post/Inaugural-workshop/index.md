@@ -37,4 +37,6 @@ If you are interested in participating in future SNAP events, please get in touc
 Cheers,
 Brendan
 
+ > *I really enjoyed the inaugural SNAP workshop. It was great to connect with other data analysts at VUW and find out who’s doing what. The idea of collaborating to develop resources for visualisation and data analysis is very exciting!* --- Prof. James Renwick, SGEES
+
 ![](/images/InauguralWorkshopParticipants.png)
