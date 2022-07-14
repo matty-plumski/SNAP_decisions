@@ -25,10 +25,9 @@ interests:
 - reactivity, catalysis, frustrated Lewis acid/base pairs (FLPs), reactivity at Group 2 metal centers
 - decontamination of chemical warfare agents, novel green fuels and better electrolytes for battery applications
 
-
- education:
-   courses:
-   - course: PhD in Computational and Theoretical Chemistry, Auckland University
+education:
+  courses:
+ - course: PhD in Computational and Theoretical Chemistry, Auckland University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
