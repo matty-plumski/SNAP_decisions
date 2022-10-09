@@ -3,11 +3,11 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#0b4c39"
-  primary_dark = "#0b4c39"
+  primary = "#28553A"
+  primary_dark = "#28553A"
 
   # Menu
-  menu_primary = "#0b4c39"
+  menu_primary = "#28553A"
   menu_text = "#EFEFEF"
   menu_text_active = "#fff"
   menu_title = "#fff"
@@ -18,7 +18,7 @@ name = "my_theme"
 
 [dark]
   # Primary
-  primary = "#0b4c39"
+  primary = "#28553A"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
