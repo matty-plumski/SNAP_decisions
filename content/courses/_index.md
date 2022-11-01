@@ -13,4 +13,4 @@ view: 2
 headless: true
 ---
 
-Find out about course and study options for a rnage of disciplines where simulation, numerical methods, analytics and programming are key components.
+Find out about course and study options for a rnage of disciplines where simulation, numerical methods, analytics and programming are key components.k

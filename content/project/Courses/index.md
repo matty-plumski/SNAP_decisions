@@ -1,5 +1,5 @@
 ---
-title: Guides and Tutorials
+title: Courses
 summary: Step-by-step lessons, tutorials and guides on a range of topics related to computational analysis
 tags:
 - training
@@ -8,4 +8,3 @@ tags:
 date: 2022-01-01
 url: "/courses"
 ---
-Step-by-step lessons, tutorials and guides on a range of topics related to computational analysis
