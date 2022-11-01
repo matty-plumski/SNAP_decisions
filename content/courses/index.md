@@ -1,6 +1,6 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Information to come
+summary: We'll be populating this page with key SNAP-related courses at VUW, Wellington UniProfessional and beyond.
 tags:
 # NLP
 date: 2022-01-01
