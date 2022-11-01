@@ -58,7 +58,6 @@ The workshop ran for about 3 hours and attendees were able to successfully split
 
 One attendee who was a bit unsure about learning Python stated that they "actually really liked" the workshop, which is surely the highest praise one could expect to receive. Seriously, though, many participants mentioned the workshop was an enjoyable and easy way to learn about Python and text analysis, which is exactly what we wanted it to be. Mission accomplished!
 
-| ![space-1.jpg](https://i.imgur.com/1HQIHBX.jpg) |
-|:--:|
+![space-1.jpg](https://i.imgur.com/1HQIHBX.jpg)
 
 *A version of this workshop will be presented at [ResBaz Aotearoa 2022](https://resbaz.auckland.ac.nz/) - any interested can sign up [here](https://resbaz.auckland.ac.nz/schedule/#session-103)*
