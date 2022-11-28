@@ -15,12 +15,14 @@ We will be using the Gaussian/GaussView suite of programs for which the Universi
 
 
 Do you want to:
-*create a reliable 3D visualisation of your molecule
-*compute and visualise molecular vibrations (IR, Raman)
-*compute an NMR spectrum
-*understand a bit more about the bonding in your molecule
-*just see what computational chemistry can do
-*talk over which methods might be best for your project."
+<ul>
+	<li>create a reliable 3D visualisation of your molecule</li>
+	<li>compute and visualise molecular vibrations (IR, Raman)</li>
+	<li>compute an NMR spectrum</li>
+	<li>understand a bit more about the bonding in your molecule</li>
+	<li>just see what computational chemistry can do</li>
+	<li>talk over which methods might be best for your project.</li>
+</ul>
 
 location: In person KK218 Cyber Comms lab
 # address:
