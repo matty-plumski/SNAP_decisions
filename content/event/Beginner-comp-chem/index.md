@@ -4,11 +4,11 @@ title: Beginners Introduction to Computational Chemistry
 event: Beginners Introduction to Computational Chemistry
 event_url: https://vuw.libcal.com/event/XX
 
-summary: Beginners Introduction to Computational Chemistry
-abstract: "This workshop will be highly interactive and hands-on and aimed at those who have not yet tried computational chemistry on molecules.  You don't need to be a chemist!  High-school chemistry or biology is enough.  
+<p>summary: Beginners Introduction to Computational Chemistry
+abstract: "This workshop will be highly interactive and hands-on and aimed at those who have not yet tried computational chemistry on molecules.  You don't need to be a chemist!  High-school chemistry or biology is enough.</p>  
 
 
-Also suitable for those beginners who are looking for a bit more help.  Do you already have the basics and want to talk through a project or problems, come along for some expert advice!
+<p>Also suitable for those beginners who are looking for a bit more help.  Do you already have the basics and want to talk through a project or problems, come along for some expert advice!</p>
 
 
 We will be using the Gaussian/GaussView suite of programs for which the University has a site license.  We will also talk about where quantum chemical computational chemistry can be useful, and where/what other computational chemistry methods are possible.  
