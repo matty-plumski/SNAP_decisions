@@ -1,7 +1,7 @@
 ---
 title: Beginners Introduction to Computational Chemistry
 
-event: Workshop: Beginners Introduction to Computational Chemistry
+event: Beginners Introduction to Computational Chemistry
 event_url: https://vuw.libcal.com/event/XX
 
 summary: Beginners Introduction to Computational Chemistry
