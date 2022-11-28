@@ -13,7 +13,7 @@ Also suitable for those beginners who are looking for a bit more help.  Do you a
 
 We will be using the Gaussian/GaussView suite of programs for which the University has a site license.  We will also talk about where quantum chemical computational chemistry can be useful, and where/what other computational chemistry methods are possible.  
 
-
+TEST
 
 Do you want to:
 
@@ -22,7 +22,6 @@ Do you want to:
 
 
 -compute and visualise molecular vibrations (IR, Raman)
-
 
 
 -compute an NMR spectrum
