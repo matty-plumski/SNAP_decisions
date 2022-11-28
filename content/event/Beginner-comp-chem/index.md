@@ -57,7 +57,7 @@ tags:
 featured: true
 
 image:
-  caption: 'quantum computational chemistry, a caffine molecule'
+  caption: 'quantum computational chemistry, a caffiene molecule'
   focal_point: Center
 
 url_code: ""
@@ -103,6 +103,7 @@ Where: KK218 Cyber Common Room
 Questions: <a href="mailto:patricia.hunt@vuw.ac.nz">patricia.hunt@vuw.ac.nz</a>
 
 Proposed timeline: 
+
 9.00 introduction
 
 9.30 hands on using gaussian
