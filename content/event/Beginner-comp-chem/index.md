@@ -14,51 +14,39 @@ Also suitable for those beginners who are looking for a bit more help.  Do you a
 We will be using the Gaussian/GaussView suite of programs for which the University has a site license.  We will also talk about where quantum chemical computational chemistry can be useful, and where/what other computational chemistry methods are possible.  
 
 
-TEST
-
 
 Do you want to:
 
 
-*create a reliable 3D visualisation of your molecule
+-create a reliable 3D visualisation of your molecule
 
 
-*compute and visualise molecular vibrations (IR, Raman)
+-compute and visualise molecular vibrations (IR, Raman)
 
 
 
-*compute an NMR spectrum
+-compute an NMR spectrum
 
 
-*understand a bit more about the bonding in your molecule
+-understand a bit more about the bonding in your molecule
 
 
-*just see what computational chemistry can do
+-just see what computational chemistry can do
 
 
-*talk over which methods might be best for your project
-
-
+-talk over which methods might be best for your project
 
 
 location: In person KK218 Cyber Comms lab
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
 # date is reverse year-month-day then "T for time"
 date: "2022-12-06T9:00:00Z"
-#date: "2022-6-04T13:00:00Z"
-#date_end: "2022-22-04T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-11-27T00:00:00Z"
+
+Register at  https://vuw.libcal.com/event/5511158
 
 authors: [admin]
 tags:
@@ -70,7 +58,7 @@ tags:
 featured: true
 
 image:
-  caption: 'quantum chemistry computational chemistry, animated vibration of the ammonia molecule'
+  caption: 'quantum computational chemistry, a caffine molecule'
   focal_point: Center
 
 url_code: ""
@@ -93,7 +81,9 @@ slides:
 projects:
 ---
 
-## Beginners Introduction to Computational Chemistry - Dec 6 9am-2.30pm in KK218
+## Beginners Introduction to Computational Chemistry 
+
+##- Dec 6 9am-2.30pm in KK218
 
 Te Herenga Waka—Victoria University of Wellington's Hub for Simulation, Numerical methods, Analytics and Programming (SNAP) invites you to an interactive workshop on computational chemistry.
 
@@ -103,7 +93,7 @@ The workshop is open to all academic and research staff, and postgraduate studen
 
 Gaussian will be accessed via a graphical interface, you will learn how to build a molecule, optimise its structure and generate physically relevant information such as the IR and NMR data.  You will also see the results of quantum mechanics in action, viewing molecular orbitals and partial charges.
 
-Register at the link: insert link here
+Register at the link:  https://vuw.libcal.com/event/5511158
 
 Not required, but it would be useful if you can e-mail patricia.hunt@vuw.ac.nz giving your name area of research and an example molecule of the type you are interested in; a chemdraw structure, atomic xyz coordinates, or cif crystal structure.
 
@@ -115,9 +105,16 @@ Questions: <a href="mailto:patricia.hunt@vuw.ac.nz">patricia.hunt@vuw.ac.nz</a>
 
 Proposed timeline: 
 9.00 introduction
+
 9.30 hands on using gaussian
+
 10.30-11 morning coffee, discussion
+
 11.00 hands on using gaussian, drop in for advice
+
 12.30-1:15 lunch
+
 1.15 discussion of more advanced techniques, drop in for advice
+
 2.30 finish
+
