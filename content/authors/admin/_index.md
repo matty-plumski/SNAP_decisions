@@ -14,7 +14,7 @@ organizations:
   url: "www.wgtn.ac.nz"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Patricia Hunt ia a Professor of Theoretical and Computational Chemistry
+bio: Patricia Hunt is a Professor of Theoretical and Computational Chemistry
 
 interests:
 
