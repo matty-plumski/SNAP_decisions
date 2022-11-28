@@ -4,23 +4,23 @@ title: Beginners Introduction to Computational Chemistry
 event: Beginners Introduction to Computational Chemistry
 event_url: https://vuw.libcal.com/event/XX
 
-<p>summary: Beginners Introduction to Computational Chemistry
-abstract: "This workshop will be highly interactive and hands-on and aimed at those who have not yet tried computational chemistry on molecules.  You don't need to be a chemist!  High-school chemistry or biology is enough.</p>  
+summary: Beginners Introduction to Computational Chemistry
+abstract: "This workshop will be highly interactive and hands-on and aimed at those who have not yet tried computational chemistry on molecules.  You don't need to be a chemist!  High-school chemistry or biology is enough.
 
 
-<p>Also suitable for those beginners who are looking for a bit more help.  Do you already have the basics and want to talk through a project or problems, come along for some expert advice!</p>
+Also suitable for those beginners who are looking for a bit more help.  Do you already have the basics and want to talk through a project or problems, come along for some expert advice!
 
 
 We will be using the Gaussian/GaussView suite of programs for which the University has a site license.  We will also talk about where quantum chemical computational chemistry can be useful, and where/what other computational chemistry methods are possible.  
 
 
 Do you want to:
--create a reliable 3D visualisation of your molecule
--compute and visualise molecular vibrations (IR, Raman)
--compute an NMR spectrum
--understand a bit more about the bonding in your molecule
--just see what computational chemistry can do
--talk over which methods might be best for your project."
+*create a reliable 3D visualisation of your molecule
+*compute and visualise molecular vibrations (IR, Raman)
+*compute an NMR spectrum
+*understand a bit more about the bonding in your molecule
+*just see what computational chemistry can do
+*talk over which methods might be best for your project."
 
 location: In person KK218 Cyber Comms lab
 # address:
