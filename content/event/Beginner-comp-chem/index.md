@@ -38,8 +38,11 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-11-27T00:00:00Z"
 
-authors: [PatriciaHunt]
-tags: [training, community]
+authors: [admin]
+tags:
+- training
+- community
+- SNAP events
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -70,7 +73,7 @@ projects:
 
 ## Beginners Introduction to Computational Chemistry - Dec 6 9am-2.30pm in KK218
 
-Te Herenga Waka—Victoria University of Wellington's Hub for Simulation, Numerical methods, Analytics and Programming (SNAP)invites you to an interactive workshop on computational chemistry.
+Te Herenga Waka—Victoria University of Wellington's Hub for Simulation, Numerical methods, Analytics and Programming (SNAP) invites you to an interactive workshop on computational chemistry.
 
 This workshop is suitable for those who have never used computational chemistry before as well as those who are beginners and would like to advance their skills.  Come along to find out how computational chemistry could be used within your research project. 
 
