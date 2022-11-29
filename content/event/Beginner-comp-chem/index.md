@@ -2,7 +2,7 @@
 title: Beginners Introduction to Computational Chemistry
 
 event: Beginners Introduction to Computational Chemistry
-event_url: https://vuw.libcal.com/event/XX
+event_url: https://vuw.libcal.com/event/5511158
 
 summary: Beginners Introduction to Computational Chemistry
 abstract: "This workshop will be highly interactive and hands-on and aimed at those who have not yet tried computational chemistry on molecules.  You don't need to be a chemist!  High-school chemistry or biology is enough.
@@ -42,8 +42,6 @@ all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-11-27T00:00:00Z"
-
-Register at  https://vuw.libcal.com/event/5511158
 
 authors: [admin]
 tags:
