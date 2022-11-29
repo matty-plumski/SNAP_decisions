@@ -22,16 +22,16 @@ Do you want to:
 - compute and visualise molecular vibrations (IR, Raman)
 
 
--compute an NMR spectrum
+- compute an NMR spectrum
 
 
--understand a bit more about the bonding in your molecule
+- understand a bit more about the bonding in your molecule
 
 
--just see what computational chemistry can do
+- just see what computational chemistry can do
 
 
--talk over which methods might be best for your project"
+- talk over which methods might be best for your project"
 
 
 location: In person KK218 Cyber Comms lab
