@@ -13,15 +13,13 @@ Also suitable for those beginners who are looking for a bit more help.  Do you a
 
 We will be using the Gaussian/GaussView suite of programs for which the University has a site license.  We will also talk about where quantum chemical computational chemistry can be useful, and where/what other computational chemistry methods are possible.  
 
-TEST
-
 Do you want to:
 
 
--create a reliable 3D visualisation of your molecule
+- create a reliable 3D visualisation of your molecule
 
 
--compute and visualise molecular vibrations (IR, Raman)
+- compute and visualise molecular vibrations (IR, Raman)
 
 
 -compute an NMR spectrum
@@ -33,7 +31,7 @@ Do you want to:
 -just see what computational chemistry can do
 
 
--talk over which methods might be best for your project
+-talk over which methods might be best for your project"
 
 
 location: In person KK218 Cyber Comms lab
@@ -82,7 +80,7 @@ projects:
 
 ## Beginners Introduction to Computational Chemistry 
 
-##- Dec 6 9am-2.30pm in KK218
+## Dec 6 9am-2.30pm in KK218
 
 Te Herenga Waka—Victoria University of Wellington's Hub for Simulation, Numerical methods, Analytics and Programming (SNAP) invites you to an interactive workshop on computational chemistry.
 
@@ -94,7 +92,7 @@ Gaussian will be accessed via a graphical interface, you will learn how to build
 
 Register at the link:  https://vuw.libcal.com/event/5511158
 
-Not required, but it would be useful if you can e-mail patricia.hunt@vuw.ac.nz giving your name area of research and an example molecule of the type you are interested in; a chemdraw structure, atomic xyz coordinates, or cif crystal structure.
+Not required, but it would be useful if you can e-mail <a href="mailto:patricia.hunt@vuw.ac.nz">patricia.hunt@vuw.ac.nz</a> giving your name area of research and an example molecule of the type you are interested in; a chemdraw structure, atomic xyz coordinates, or cif crystal structure.
 
 When: Tuesday 6 Dec 2022
 
