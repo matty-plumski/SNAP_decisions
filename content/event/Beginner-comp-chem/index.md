@@ -104,17 +104,11 @@ Questions: <a href="mailto:patricia.hunt@vuw.ac.nz">patricia.hunt@vuw.ac.nz</a>
 
 Proposed timeline: 
 
-9.00 introduction
-
-9.30 hands on using gaussian
-
-10.30-11 morning coffee, discussion
-
-11.00 hands on using gaussian, drop in for advice
-
-12.30-1:15 lunch
-
-1.15 discussion of more advanced techniques, drop in for advice
-
-2.30 finish
+- 9.00 introduction
+- 9.30 hands on using gaussian
+- 10.30-11 morning coffee, discussion
+- 11.00 hands on using gaussian, drop in for advice
+- 12.30-1:15 lunch
+- 1.15 discussion of more advanced techniques, drop in for advice
+- 2.30 finish
 
