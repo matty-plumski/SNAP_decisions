@@ -108,3 +108,6 @@ Proposed timeline:
 - 1.15 discussion of more advanced techniques, drop in for advice
 - 2.30 finish
 
+https://raw.githubusercontent.com/matty-plumski/SNAP_decisions/560e79b9a2e7576e69cc0!
+
+![animation test](https://raw.githubusercontent.com/matty-plumski/SNAP_decisions/560e79b9a2e7576e69cc01fa42145469d1be11f2/static/uploads/ammonia_umbrella.gif)
