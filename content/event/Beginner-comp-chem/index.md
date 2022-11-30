@@ -113,5 +113,5 @@ Proposed timeline:
 
 <div style="position:relative">
 <img src="https://raw.githubusercontent.com/matty-plumski/SNAP_decisions/560e79b9a2e7576e69cc01fa42145469d1be11f2/static/uploads/ammonia_umbrella.gif" width="650" height="419" alt="" class="featured-image">
-<span class="article-header-caption">Quantum chemistry computational chemistry, animated vibration of the ammonia molecule</span>
+<span class="article-header-caption">Quantum computational chemistry, animated vibration of the ammonia molecule</span>
 </div>
