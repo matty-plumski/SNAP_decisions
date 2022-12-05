@@ -23,5 +23,5 @@ draft: false
 
 we had our 2nd coffee meeting, this first since COVID restrictions were relaxed. We had a wonderful crowd arrive with 20 plus people from across the university.  Do come to our next coffee meeting and chat science, humanities, health, linguistics and much more...
 
-![the end of the event!](end_event.jpg)
+![the end of the event!](https://raw.githubusercontent.com/matty-plumski/SNAP_decisions/main/content/post/coffee_Nov_2022/end_event.jpeg)
 
